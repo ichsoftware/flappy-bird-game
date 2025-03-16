@@ -5,7 +5,7 @@
 *● The File Fee 45 Dolar* <br>
 *● The source files will be sent after the purchase is completed.* <br><br>
 
-# * Screenshot from the game* <br>
+# *Screenshot from the game* <br>
 
 ![Ekran görüntüsü 2025-03-17 000052](https://github.com/user-attachments/assets/363c2947-8424-4407-bc10-e9155d25fa51) ![Ekran görüntüsü 2025-03-17 000135](https://github.com/user-attachments/assets/14a21344-64da-46a2-8ed7-6eede708b2a9) <br>
 
