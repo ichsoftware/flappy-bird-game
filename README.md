@@ -2,7 +2,8 @@
   
 # *Flappy Bird Game*
 *● An inexpensive, ultra-quality Flappy Bird game ready to be published on platforms like the Play Store (Google ADB will be added)* <br>
-*● The File Fee 45 Dolar* <br> <br>
+*● The File Fee 45 Dolar* <br>
+*● The source files will be sent after the purchase is completed.* <br><br>
 
 # * Screenshot from the game* <br>
 
